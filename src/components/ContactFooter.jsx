@@ -80,7 +80,7 @@ export default function ContactFooter({ onOpenEnroll, onOpenCertificate }) {
               </p>
               <p className="flex items-center gap-2">
                 <Calendar className="w-4 h-4 text-teal-400" />
-                <span>Batch Starts: <strong className="text-white">1 AUGUST 2026</strong></span>
+                <span>Batch Starts: <strong className="text-white">7 AUGUST 2026</strong></span>
               </p>
               <p className="flex items-center gap-2">
                 <Video className="w-4 h-4 text-teal-400" />

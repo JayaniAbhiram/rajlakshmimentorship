@@ -23,7 +23,7 @@ export default function Hero({ onOpenEnroll, onOpenCall }) {
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-teal-500 opacity-75"></span>
                 <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-teal-600"></span>
               </span>
-              <span>Batch Starts 1 AUGUST 2026</span>
+              <span>Batch Starts 7 AUGUST 2026</span>
               <span className="text-teal-400">•</span>
               <span className="text-teal-900 font-black">Reserve your slot now!</span>
               <ArrowRight className="w-3.5 h-3.5 ml-1 text-teal-700 group-hover:translate-x-1 transition-transform" />
@@ -125,7 +125,7 @@ export default function Hero({ onOpenEnroll, onOpenCall }) {
                   <Calendar className="w-5 h-5" />
                 </div>
                 <p className="text-[10px] font-extrabold uppercase text-slate-500">BATCH STARTS</p>
-                <p className="text-sm font-black text-slate-900">1 AUGUST 2026</p>
+                <p className="text-sm font-black text-slate-900">7 AUGUST 2026</p>
                 <p className="text-[11px] font-bold text-teal-700">Reserve your slot now!</p>
               </div>
             </Reveal>

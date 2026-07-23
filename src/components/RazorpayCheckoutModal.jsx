@@ -65,7 +65,7 @@ export default function RazorpayCheckoutModal({ isOpen, onClose }) {
             </div>
             <div className="flex justify-between border-b border-slate-200 pb-2">
               <span className="text-slate-500">Batch Start Date:</span>
-              <span className="text-slate-900 font-bold">1 AUGUST 2026</span>
+              <span className="text-slate-900 font-bold">7 AUGUST 2026</span>
             </div>
             <div className="flex justify-between">
               <span className="text-slate-500">Mode:</span>
